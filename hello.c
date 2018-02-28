@@ -1,4 +1,4 @@
 hello world
-for(;;)
+for(i=1;p+1;)
 {
 }
